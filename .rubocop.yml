@@ -1,0 +1,9 @@
+
+AllCops:
+  NewCops: enable
+
+Metrics/MethodLength:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
