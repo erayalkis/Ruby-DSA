@@ -12,11 +12,11 @@ describe '#two_sum' do
   end
 
   it 'should throw an error when an array isn\'t passed in' do
-    expect { two_sum(10) }.to raise_error(ArgumentError)
+    expect { two_sum(nil, 10) }.to raise_error(ArgumentError)
   end
 
   it 'should throw an error when a target isn\'t passed in' do
-    expect { two_sum([1, 2, 3, 4, 5]) }.to raise_error(ArgumentError)
+    expect { two_sum([1, 2, 3, 4, 5], nil) }.to raise_error(ArgumentError)
   end
 
   it 'should return [-1, -1] for an empty array' do
