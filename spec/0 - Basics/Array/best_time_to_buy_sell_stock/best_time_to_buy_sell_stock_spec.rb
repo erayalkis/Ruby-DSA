@@ -1,4 +1,4 @@
-require './0 - Basics/best_time_to_buy_sell_stock/best_time_to_buy_sell_stock'
+require './0 - Basics/Array/best_time_to_buy_sell_stock/best_time_to_buy_sell_stock'
 
 describe '#best_time_to_buy_sell_stock' do
   it 'should return the correct days for maximum profit' do
