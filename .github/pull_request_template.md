@@ -1,0 +1,24 @@
+
+> First thing, PLEASE READ THIS: [ReactPlay Code Review Checklist](https://github.com/reactplay/react-play/wiki/ReactPlay-Code-Review-Checklist)
+
+# Description
+
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+
+Please include a detailed summary of your changes here. If you're fixing an issue, please [link the issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) here.
+
+
+## Type of change
+
+- [] Bug fix              (a non-breaking change which fixes an issue)
+- [] Style fix            (a non-breaking change which edits code to fit the Ruby Style)
+- [] Documentation fix    (a non-breaking change which change comments/markdown files to be more readable)
+- [] New solution         (a non-breaking change which adds a new solution)
+- [] Alternative solution (a non-breaking change which adds a new approach to an existing problem in the repo)
+
+## Checklist:
+
+- [] I have reviewed my code
+- [] I have commented or explained my solution
+- [] I have added tests that prove my solution works as intended
+- [] I have verified that my code passes all the tests I've written
