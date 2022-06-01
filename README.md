@@ -1,7 +1,7 @@
-# README
 
 # Introducing Ruby-DSA 💻
 `Ruby-DSA` is an `open-source` project that provides solutions for many Data Structures and Algorithm problems. This project uses [Ruby](https://www.ruby-lang.org/en/), a **dynamic**, **open source** programming language that prioritises **simplicity** and **readability**! 🚀
+
 This repository aims to help both beginners learning Ruby, and intermediate programmers looking to study DSA problems with Ruby.
 
 # How do I set up `Ruby-DSA` locally?
@@ -35,7 +35,7 @@ If you wish to contribute, you can:
 * Fix typos, improve code readability, etc.
 * Improve documentation
 
-> Before contributing, please read CONTRIBUTING.md and CODE_OF_CONDUCT.md. Any inappropriate behaviour will not be tolerated.
+> Before contributing, please read [CONTRIBUTING](https://github.com/erayalkis/Ruby-DSA/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT](https://github.com/erayalkis/Ruby-DSA/blob/main/CODE_OF_CONDUCT.md).
 
 # Support
 
