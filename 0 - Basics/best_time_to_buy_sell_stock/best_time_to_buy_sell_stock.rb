@@ -3,7 +3,7 @@ def best_time_to_buy_sell_stock(prices)
   right = 1
   profit = 0
 
-  while right > prices.length
+  while right < prices.length
     curr_profit = prices[right] - prices[left]
 
     if prices[right] > prices[left]
