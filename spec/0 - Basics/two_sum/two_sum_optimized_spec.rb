@@ -11,12 +11,12 @@ describe '#two_sum_optimized' do
     expect(two_sum_optimized([1, 2, 3, 4, 5], 10)).to eq([-1, -1])
   end
 
-  it 'should throw an error when an array isn\'t passed in' do
-    expect { two_sum_optimized(nil, 10) }.to raise_error(ArgumentError)
+  it 'should return [-1, -1] when an array isn\'t passed in' do
+    expect(two_sum_optimized(nil, 10)).to eq([-1, -1])
   end
 
-  it 'should throw an error when a target isn\'t passed in' do
-    expect { two_sum_optimized([1, 2, 3, 4, 5], nil) }.to raise_error(ArgumentError)
+  it 'should return [-1, -1] when a target isn\'t passed in' do
+    expect(two_sum_optimized([1, 2, 3, 4, 5], nil)).to eq([-1, -1])
   end
 
   it 'should return [-1, -1] for an empty array' do
