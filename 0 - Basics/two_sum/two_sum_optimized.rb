@@ -12,6 +12,8 @@
 # Time/Space Complexity: O(n) Time / O(n) Space
 
 def two_sum_optimized(nums, target)
+  return [-1, -1] unless nums && target
+
   seen = {}
 
   nums.each_with_index do |num, idx|
