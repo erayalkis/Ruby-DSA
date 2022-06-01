@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require './0 - Basics/two_sum/two_sum_optimized'
 
 describe '#two_sum_optimized' do

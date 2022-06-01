@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def best_time_to_buy_sell_stock(prices)
   left = 0
   right = 1

@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Problem Name: Two Sum
 # Description:
 # Given an array of integers nums and an integer target,

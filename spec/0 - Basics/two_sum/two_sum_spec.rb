@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require './0 - Basics/two_sum/two_sum'
 
 describe '#two_sum' do
