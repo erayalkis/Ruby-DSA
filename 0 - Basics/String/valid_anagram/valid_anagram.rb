@@ -8,9 +8,9 @@
 
 def valid_anagram(str1, str2)
   alphabet_hash = {}
-  ('a'..'z').each { |chr| obj[chr] = 0 }
+  ('a'..'z').each { |chr| alphabet_hash[chr] = 0 }
 
-  st1.each_char { |chr| alphabet_hash[chr] += 1 }
+  str1.each_char { |chr| alphabet_hash[chr] += 1 }
   str2.each_char { |chr| alphabet_hash[chr] -= 1 }
 
   alphabet_hash.values.all?(&:zero?)
