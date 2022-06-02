@@ -43,5 +43,4 @@ All kinds of support is deeply appreciated! It helps the `Ruby-DSA` project grow
 
 If you find the repository helpful, please consider showing support:
 
-(COFFEE)
-
+**THIS REPOSITORY IS CURRENTLY WIP, CONTRIBUTORS ARE STILL WELCOME THOUGH! :)**
