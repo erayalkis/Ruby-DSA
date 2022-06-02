@@ -10,12 +10,6 @@ assignees: ''
 A short and clear description the bug.
 
 **How to reproduce the bug**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
 1. In `solution_file`
 2. Pass in *X* to `#solution_method`
 3. Observe unexpected behaviour
