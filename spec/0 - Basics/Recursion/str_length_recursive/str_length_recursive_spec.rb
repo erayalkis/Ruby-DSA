@@ -15,6 +15,6 @@ describe '#str_length_recursive' do
   end
 
   it 'should work with strings with spaces' do
-    expect(str_length_recursive('this is a string with spaces')).to eq(20)
+    expect(str_length_recursive('this is a string with spaces')).to eq(28)
   end
 end
