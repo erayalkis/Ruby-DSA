@@ -6,7 +6,7 @@
 # -- Time/Space Complexity: --
 # O(n) Time / O(1) Space
 
-def valid_anagram(str1, str2)
+def valid_anagram?(str1, str2)
   alphabet_hash = {}
   ('a'..'z').each { |chr| alphabet_hash[chr] = 0 }
 

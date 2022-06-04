@@ -7,7 +7,7 @@
 # -- Time/Space Complexity: --
 # O(n) Time / O(1) Space
 
-def valid_palindrome(str)
+def valid_palindrome?(str)
   str = str.downcase.tr('^a-z0-9', '')
 
   i = 0
