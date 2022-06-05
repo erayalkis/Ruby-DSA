@@ -61,6 +61,36 @@ If you wish to contribute, you can:
 
 > Before contributing, please read [CONTRIBUTING](https://github.com/erayalkis/Ruby-DSA/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT](https://github.com/erayalkis/Ruby-DSA/blob/main/CODE_OF_CONDUCT.md).
 
+# Useful Resources
+
+[Algorithms and Data Structures course by freeCodeCamp](https://youtu.be/8hly31xKli0)
+
+## Big O
+
+Quoting WikiPedia:
+
+>Big O notation is a mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity. 
+
+Basically, *Big O notation* is used to classify algorithms according to how their running time or space requirements grow as the input size grows. On the chart below you may find most common orders of growth of algorithms specified in Big O notation.
+
+*(The rest of this section is greatly inspired by the javascript-algorithms repository, please [go check them out and leave a star!](https://github.com/trekhleb/javascript-algorithms))*
+
+![Big O notation chart showing various time and space complexities for algorithms.](https://miro.medium.com/max/1200/1*5ZLci3SuR0zM_QlZOADv8Q.jpeg)
+*Source: [Big O cheatsheet](https://www.bigocheatsheet.com/)*
+
+Below is a table showing some of the most used Big O notations and their performance comparisons against different sizes of the input data.
+
+| Big O Notation | Type | Computation for 10 elements | Computation for 100 elements | Computation for 1000 elements |
+| -------------- | ---- | --------------------------- | ---------------------------- | ----------------------------- |
+| $O(1)$ | Constant | 1 | 1 | 1 | 
+| $O(log n)$ | Logarithmic | 3 | 6 | 9 |
+| $O(n)$ | Linear | 10 | 100 | 1000 |
+| $O(n log n)$ | n log(n) | 30 | 600 | 9000 |
+| $O(n^2)$ | Quadratic | 100 | 10000 | 1000000 |
+| $O(2^n)$ | Exponantial | 1024 | $1.26e+29$ | $1.07e+301$  |
+| $O(n!)$ | Factorial | 3628800 | $9.3e+157$ | $4.02e+2567$ |
+
+
 # Support
 
 All kinds of support is deeply appreciated! It helps the `Ruby-DSA` project grow, and keeps us motivated! Please give this project a ⭐ to show us that you like the project!
