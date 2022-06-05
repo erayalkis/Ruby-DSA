@@ -96,7 +96,8 @@ Below is a table showing some of the most used Big O notations and their perform
 All kinds of support is deeply appreciated! It helps the `Ruby-DSA` project grow, and keeps us motivated! Please give this project a ⭐ to show us that you like the project!
 
 If you find the repository helpful, please consider showing support:
-<a href="https://www.buymeacoffee.com/erayalkis">
+<br />
+<a href="https://www.buymeacoffee.com/erayalkis" target="#">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
 </a>
 
