@@ -22,7 +22,9 @@ To set up `Ruby-DSA` locally:
 ## 💎 Install gems
 Next, install the dependencies for this project by running this command inside the `Ruby-DSA` folder:
 
-```bundle install```
+```
+bundle install
+```
 
 ## You're ready to code!
 Congrats, you've successfully cloned and installed dependencies for the `Ruby-DSA` repo! Now you can make any changes and open a pull request afterwards!
