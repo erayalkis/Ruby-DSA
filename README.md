@@ -28,7 +28,16 @@ Next, install the dependencies for this project by running this command inside t
 Congrats, you've successfully cloned and installed dependencies for the `Ruby-DSA` repo! Now you can make any changes and open a pull request afterwards!
 
 ## Running tests
-To test your code, run the `rspec` command in the root directory.
+To test your code, run
+> rspec
+at the root directory.
+To use a specific test file only, run
+> rspec <path_to_test_file>
+
+## Checking code quality
+To ensure that your code fits the Ruby best practices, run
+> rubocop
+at the root directory.
 
 # Contributing to `Ruby-DSA`
 All kinds of contributions are welcome! You can help the project grow by contributing to it!
