@@ -1,7 +1,7 @@
 require './1 - Data Structures/Linked List/cycle/cycle'
 require './1 - Data Structures/Linked List/list_node'
 
-describe '#cycle' do
+describe '#cycle?' do
   before(:all) do
     head = ListNode.new(0)
     first = ListNode.new(1)
