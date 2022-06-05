@@ -1,8 +1,10 @@
 
-# Introducing Ruby-DSA 💻
+# Ruby Data Structures and Algorithms 💻
 `Ruby-DSA` is an `open-source` project that provides solutions for many Data Structures and Algorithm problems. This project uses [Ruby](https://www.ruby-lang.org/en/), a **dynamic**, **open source** programming language that prioritises **simplicity** and **readability**! 🚀
 
 This repository aims to help both beginners learning Ruby, and intermediate programmers looking to study DSA problems with Ruby.
+
+*(Please note that this repository is meant to be used for learning and researching only, it's not meant to be used in production!)*
 
 # How do I set up `Ruby-DSA` locally?
 If you're interested in contributing to `Ruby-DSA`, this section should help!
