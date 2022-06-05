@@ -29,14 +29,20 @@ Congrats, you've successfully cloned and installed dependencies for the `Ruby-DS
 
 ## Running tests
 To test your code, run
+
 > rspec
+
 at the root directory.
+
 To use a specific test file only, run
+
 > rspec <path_to_test_file>
 
 ## Checking code quality
 To ensure that your code fits the Ruby best practices, run
+
 > rubocop
+
 at the root directory.
 
 # Contributing to `Ruby-DSA`
