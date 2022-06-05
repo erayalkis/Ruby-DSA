@@ -14,7 +14,7 @@ describe '#cycle' do
     @list_with_cycle = head
 
     no_cycle_head = ListNode.new(0)
-    curr = head
+    curr = no_cycle_head
     (1..5).each do |n|
       new_node = ListNode.new(n)
       curr.next = new_node
